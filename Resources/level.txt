@@ -1,0 +1,7 @@
+l1=a-z
+l2=z-a
+l3=random (a to z)
+l4=random(all special char without shift+numbers)
+l5=random(all special char + with shift+numbers)
+l6=l5+l3(full keyboard)
+l7=l6+caps alpha
